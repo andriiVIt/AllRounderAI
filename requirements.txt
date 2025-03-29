@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+flet
+pydantic
+requests
+ollama
+pymongo
